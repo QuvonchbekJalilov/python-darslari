@@ -1,2 +1,2 @@
 # python-darslari
-it is about python lessons what you need!
+it is about python lessons which you need!
